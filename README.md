@@ -20,7 +20,7 @@ QObject_Section6: Example to demonstrate run-time object introspection of a QObj
 
 QObject_Section7: Example to demonstrate some basic memory management of a QObject. Tested with with Qt 6.8.1 MinGW 64-bit.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
